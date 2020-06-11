@@ -2,7 +2,7 @@
 command line interface weather app
 
 ## API's used
-Mapbox
+Mapbox <br/>
 Weatherstack
 
 ## Built with
